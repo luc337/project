@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+img
+{
+    width: 100%;
+}
+
+.first-floor
+{
+  width: 400px;
+  float: left;
+}

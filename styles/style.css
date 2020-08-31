@@ -1,0 +1,306 @@
+* {
+    box-sizing: border-box;
+}
+
+.maket
+{
+    margin: 0;
+    background-color: #f3f3f3;
+}
+
+.maket__header
+{
+    height: 501.41px;
+}
+
+.maket__header-right
+{
+    display: inline-block;
+    position: absolute;
+    margin: 4%;
+}
+
+.maket__header-left-img
+{
+    width: 66%;
+}
+
+.maket__header-right-caption
+{
+    font-family: Roboto, Sans-Serif;
+    font-size: 40pt;
+    margin-top: 80px;
+}
+
+.caption-1
+{
+    font-weight: 100;
+}
+
+.caption-2
+{
+    font-weight: bold;
+}
+
+.caption-3
+{
+    font-weight: normal;
+}
+
+.maket__header-right-text
+{
+    font-family: Roboto, Sans-Serif;
+    font-size: 18pt;
+    font-weight: normal;
+}
+
+.maket__middle
+{
+    margin-top: 288px;
+}
+
+.maket__middle-left-img
+{
+    width: 45%;
+    position: absolute;
+}
+
+.maket__middle-left
+{
+    position: relative;    
+}
+
+dt
+{
+    position: absolute;
+    font-family: Roboto, Sans-Serif;
+    font-size: 35pt;
+    letter-spacing: 2px;
+    color: white;
+}
+
+dd
+{
+    position: absolute;
+    width: 500px;
+    color: white;
+    text-align: justify;
+    line-height: 1.5;
+
+    font-family: Roboto, Sans-Serif;
+    font-size: 13pt;
+    font-weight: normal;
+}
+
+.maket__middle-left-caption1
+{
+    margin: 20px 60px;
+}
+
+.maket__middle-left-caption2
+{
+    margin: 320px 60px;
+}
+
+.maket__middle-left-caption3
+{
+    margin: 620px 60px;
+}
+
+.maket__middle-left-text1
+{
+    margin: 150px 60px;
+    width: 500px;
+}
+
+.maket__middle-left-text2
+{
+    margin: 450px 60px;
+    width: 500px;
+}
+
+.maket__middle-left-text3
+{
+    margin: 750px 60px;
+    width: 500px;
+}
+
+.maket__middle-right
+{
+    margin-left: 684px;
+}
+
+.img-middle-bot 
+{
+    margin-top: -4px;    
+}
+
+.img-middle-bot, .img-middle-top
+{
+    width: 836.5px;
+}
+
+.maket__middle-right-top
+{
+    position: relative;
+}
+
+.maket__middle-right-top-caption, .maket__middle-right-bot-caption
+{
+    position: absolute;
+    margin: -412px 57px;
+    font-family: Roboto, Sans-Serif;
+    font-size: 35pt;
+    letter-spacing: 2px;
+}
+
+.maket__middle-right-top-text, .maket__middle-right-bot-text
+{
+    position: absolute;
+    margin: -312px 57px;
+    text-align: justify;
+    line-height: 1.5;
+    width: 620px;
+
+    font-family: Roboto, Sans-Serif;
+    font-size: 13pt;
+    font-weight: normal;
+}
+
+.img-middle-top-border, .img-middle-bot-border
+{
+    position: absolute;
+    margin: -140px 57px;
+}
+
+.maket__middle-right-top-textborder, .maket__middle-right-bot-textborder
+{
+    position: absolute;
+    margin: -125px 97px;
+    line-height: 1.5;
+    width: 620px;
+
+    font-family: Roboto, Sans-Serif;
+    font-size: 13pt;
+    font-weight: normal;
+}
+
+.maket__middle-right-bot
+{
+    color: white;
+    position: relative;
+}
+
+.maket__footer-left
+{
+    margin-top: -4px;
+    float: left;
+}
+
+.footer-image-left
+{
+    width: 510px;
+}
+
+.maket__footer-caption
+{
+    position: absolute;
+    margin: -710px 57px;
+    font-family: Roboto, Sans-Serif;
+    font-size: 35pt;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.maket__footer-left-icon
+{
+    display: block;
+    margin: -310px 57px;
+}
+
+.maket__footer-left-text1
+{
+    margin: 360px 0 0 57px;
+    font-family: Roboto, Sans-Serif;
+    font-size: 32pt;
+    color: white;
+}
+
+.maket__footer-left-text2
+{
+    margin: 10px 0 0 57px;
+    font-family: Roboto, Sans-Serif;
+    font-size: 13pt;
+    color: white;
+}
+
+.maket__footer-right-img
+{
+    margin-top: -4px;
+    width: 1009.2px;
+}
+
+.maket__footer-right-caption
+{
+    margin: -710px 580px;
+    font-family: Roboto, Sans-Serif;
+    font-size: 35pt;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.maket__footer-right-borderS1
+{
+    position: absolute;
+    margin: 745px 0 0 580px;
+}
+
+.maket__footer-right-borderS2
+{
+    position: absolute;
+    margin: 745px 0 0 895px;
+}
+
+.maket__footer-right-borderB
+{
+    position: absolute;
+    margin: 815px 0 0 580px;
+}
+
+.textbox1, .textbox2, .textbox3, .footer-text1, .footer-text2
+{
+    font-family: Roboto, Sans-Serif;
+    font-size: 13pt;
+    font-weight: normal;
+    color: white;
+}
+
+.textbox1
+{
+    position: absolute;
+    margin: 765px 0 0 610px;    
+}
+
+.textbox2
+{
+    position: absolute;
+    margin: 765px 0 0 925px; 
+}
+
+.textbox3
+{
+    position: absolute;
+    margin: 840px 0 0 610px; 
+}
+
+.footer-text1
+{
+    position: absolute;
+    margin: 1100px 0 0 580px;
+}
+
+.footer-text2
+{
+    position: absolute;
+    margin: 1260px 0 0 580px;
+}
