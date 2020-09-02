@@ -11,14 +11,14 @@ body {
 }
 
 .header__left {
-    background-image: url(../images/1.png..);
+    background-image: url(../images/1.png);
     width: 65%;
     height: 715px;
     display: inline-block;
 }
 
 .header__right {
-    background-image: url(../images/2.png..);
+    background-image: url(../images/2.png);
     width: 34%;
     height: 715px;
     display: inline-block;
